@@ -14,3 +14,4 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+laravel-in-kubernetes-infra/local.tfvars
